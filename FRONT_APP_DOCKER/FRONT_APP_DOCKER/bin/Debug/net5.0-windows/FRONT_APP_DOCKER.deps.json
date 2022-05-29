@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FRONT_APP_DOCKER/1.0.0": {
+        "runtime": {
+          "FRONT_APP_DOCKER.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FRONT_APP_DOCKER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
